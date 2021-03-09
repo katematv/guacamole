@@ -1,2 +1,2 @@
 # guacamole
-juego
+juego creado en equipo
