@@ -24,7 +24,6 @@ Esta es una **demo** que muestra las mecánicas básicas, la estética y la narr
 ## Video de Presentación 
 
 ¡Mira nuestro video de presentación para ver el juego en acción!  
-[![Video](resources/SpiritGameplayV1.mp4)]
 https://youtu.be/1Hhst-h1eq4
 
 ---
