@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 28ca2b9cf1902194ea603c85d67b365e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5694264498662121561
+    second: spriteEleonora_0
+  - first:
+      213: -2243589751277306516
+    second: spriteEleonora_1
+  - first:
+      213: 2254165374619202730
+    second: spriteEleonora_2
+  - first:
+      213: 5151820605161048867
+    second: spriteEleonora_3
+  - first:
+      213: -4504902517665241367
+    second: spriteEleonora_4
+  - first:
+      213: 7779471164125188213
+    second: spriteEleonora_5
+  - first:
+      213: -5855631630457678800
+    second: spriteEleonora_6
+  - first:
+      213: -6035263531426667521
+    second: spriteEleonora_7
+  - first:
+      213: 7043462466929413353
+    second: spriteEleonora_8
+  - first:
+      213: 8280012074998195213
+    second: spriteEleonora_9
+  - first:
+      213: -7959381874522980011
+    second: spriteEleonora_10
+  - first:
+      213: -6868802746358349493
+    second: spriteEleonora_11
+  - first:
+      213: 3770150046486635473
+    second: spriteEleonora_12
+  - first:
+      213: -7748642883019218510
+    second: spriteEleonora_13
+  - first:
+      213: -1087389168381355773
+    second: spriteEleonora_14
+  - first:
+      213: -4551973199722157142
+    second: spriteEleonora_15
+  - first:
+      213: -7898559182206243635
+    second: spriteEleonora_16
+  - first:
+      213: 5826240527989697788
+    second: spriteEleonora_17
+  - first:
+      213: -1264942005910139344
+    second: spriteEleonora_18
+  - first:
+      213: -2219228758271924204
+    second: spriteEleonora_19
+  - first:
+      213: -7629452339150651312
+    second: spriteEleonora_20
+  - first:
+      213: 6745730468412069969
+    second: spriteEleonora_21
+  - first:
+      213: -3940224523795155150
+    second: spriteEleonora_22
+  - first:
+      213: 3301296547389406341
+    second: spriteEleonora_23
+  - first:
+      213: 3127645730429186841
+    second: spriteEleonora_24
+  - first:
+      213: -3110888656446688138
+    second: spriteEleonora_25
+  - first:
+      213: -3742275799957247120
+    second: spriteEleonora_26
+  - first:
+      213: -6631889918430324011
+    second: spriteEleonora_27
+  - first:
+      213: -2183385540884370634
+    second: spriteEleonora_28
+  - first:
+      213: -5207936200904073371
+    second: spriteEleonora_29
+  - first:
+      213: -2623505703203656508
+    second: spriteEleonora_30
+  - first:
+      213: 2760073196647144140
+    second: spriteEleonora_31
+  - first:
+      213: 1849563174916766704
+    second: spriteEleonora_32
+  - first:
+      213: 315517659271260395
+    second: spriteEleonora_33
+  - first:
+      213: -8461355934452859542
+    second: spriteEleonora_34
+  - first:
+      213: 1147643831545622500
+    second: spriteEleonora_35
+  - first:
+      213: 7018395244470653545
+    second: spriteEleonora_36
+  - first:
+      213: 5723487411179882403
+    second: spriteEleonora_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteEleonora_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3508
+        width: 342
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af5024ab98e9f0b0800000000000000
+      internalID: -5694264498662121561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3984
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db86d120b2dd0e0800000000000000
+      internalID: -2243589751277306516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3508
+        width: 340
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4b9231777684f10800000000000000
+      internalID: 2254165374619202730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_3
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 3508
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b892d7b81fe7740800000000000000
+      internalID: 5151820605161048867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_4
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3508
+        width: 342
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ecc6370f5b71c0800000000000000
+      internalID: -4504902517665241367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3006
+        width: 342
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570931e6ecb36fb60800000000000000
+      internalID: 7779471164125188213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3006
+        width: 350
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034570b7e0e9cbea0800000000000000
+      internalID: -5855631630457678800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_7
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a17b5bcf6e3ca0800000000000000
+      internalID: -6035263531426667521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_8
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3006
+        width: 341
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eccf1abbc76fb160800000000000000
+      internalID: 7043462466929413353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_9
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 3002
+        width: 354
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d046632ec1388e270800000000000000
+      internalID: 8280012074998195213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2500
+        width: 299
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55100611b589a8190800000000000000
+      internalID: -7959381874522980011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2500
+        width: 295
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41451f6b4c1da0a0800000000000000
+      internalID: -6868802746358349493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_12
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2500
+        width: 295
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d322cefd73425430800000000000000
+      internalID: 3770150046486635473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_13
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2500
+        width: 299
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e74a1a5a477490800000000000000
+      internalID: -7748642883019218510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2004
+        width: 314
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30995060051d8e0f0800000000000000
+      internalID: -1087389168381355773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2002
+        width: 316
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab66730e7424d0c0800000000000000
+      internalID: -4551973199722157142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_16
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2002
+        width: 313
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc623ba54ea26290800000000000000
+      internalID: -7898559182206243635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_17
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2002
+        width: 320
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc6fc634e6fad050800000000000000
+      internalID: 5826240527989697788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1501
+        width: 344
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e814492f5027ee0800000000000000
+      internalID: -1264942005910139344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1501
+        width: 344
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418eedbc337b331e0800000000000000
+      internalID: -2219228758271924204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_20
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1501
+        width: 332
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500726258dbe1690800000000000000
+      internalID: -7629452339150651312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_21
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1941
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1581b30ee16ad9d50800000000000000
+      internalID: 6745730468412069969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_22
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1501
+        width: 332
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23738ebfba28159c0800000000000000
+      internalID: -3940224523795155150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_23
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1941
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7e5508bf80dd20800000000000000
+      internalID: 3301296547389406341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1001
+        width: 350
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913bf798831a76b20800000000000000
+      internalID: 3127645730429186841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1001
+        width: 350
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f3b8cf37e3d4d0800000000000000
+      internalID: -3110888656446688138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_26
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1281
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07be104ccf3c01cc0800000000000000
+      internalID: -3742275799957247120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_27
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1001
+        width: 340
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da5776a14bc6f3a0800000000000000
+      internalID: -6631889918430324011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_28
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1281
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63becdb2b6e03b1e0800000000000000
+      internalID: -2183385540884370634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_29
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1001
+        width: 340
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f173c3e91b9b7b0800000000000000
+      internalID: -5207936200904073371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 503
+        width: 312
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca55e767f679bd0800000000000000
+      internalID: -2623505703203656508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_31
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 503
+        width: 312
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccada38e2ffbd4620800000000000000
+      internalID: 2760073196647144140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_32
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 503
+        width: 304
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbbe8e78e7faa910800000000000000
+      internalID: 1849563174916766704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_33
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 503
+        width: 306
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e931b3a1f06400800000000000000
+      internalID: 315517659271260395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 319
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d3bc89b99339a80800000000000000
+      internalID: -8461355934452859542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_35
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 318
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efe1fbfbff3def00800000000000000
+      internalID: 1147643831545622500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_36
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 0
+        width: 314
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d6ff2a49566160800000000000000
+      internalID: 7018395244470653545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteEleonora_37
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 0
+        width: 312
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a70cc3e979ed6f40800000000000000
+      internalID: 5723487411179882403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
