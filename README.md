@@ -35,7 +35,7 @@ Este proyecto fue creado con mucho esfuerzo y dedicación por:
 - **Lucía Roldán**  
 - **Ekaterina Matveeva** 
 - **Lucía Espín** 
-- **Sofía García** 
+- **Sofía García** [instagram](https://www.instagram.com/sofialian_/)
 
 ---
 
