@@ -32,10 +32,10 @@ https://youtu.be/1Hhst-h1eq4
 
 Este proyecto fue creado con mucho esfuerzo y dedicación por:
 
-- **Lucía Roldán**  
-- **Ekaterina Matveeva** 
-- **Lucía Espín** 
-- **Sofía García** [instagram](https://www.instagram.com/sofialian_/)
+- [Lucía Roldán](https://www.instagram.com/imluart/)
+- Ekaterina Matveeva
+- [Lucía Espín](https://www.instagram.com/luu.em_/)
+- [Sofía García](https://www.instagram.com/sofialian_/)
 
 ---
 
